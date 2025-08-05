@@ -65,7 +65,7 @@ Como vimos en el ejemplo, la duración esperada de este intervalo es:
 
      1/ℎ𝑖 = 4N/𝑖(𝑖−1) (3)
 
-Por ejemplo, en una muestra de tamaño 4:
+Por ejemplo, en una muestra de tamaño 4: \
 ![](../images/coalescencia3.png)
 
 los cuatro intervalos de coalescencia tienen las siguientes probabilidades de coalescencia y longitudes esperadas:
@@ -76,8 +76,8 @@ los cuatro intervalos de coalescencia tienen las siguientes probabilidades de co
 
 ![](../images/coalescencia4.png)
 
-**El número de mutaciones en una genealogía de genes**
-![](../images/coalescencia5.png)
+**El número de mutaciones en una genealogía de genes** \
+![](../images/coalescencia5.png) 
 
 El número esperado de mutaciones depende no solo de la tasa de mutación, 𝑢, sino también de la longitud total de la genealogía de genes. En una muestra de 3 genes, esta longitud es:
 
@@ -321,14 +321,14 @@ Para utilizar la fórmula teórica con datos, podemos usar el estimador 𝜃. \
 ![](../images/sfs4.png) \
 **La suma del espectro observado es igual al número de sitios segregantes S** 
 
-**Ejemplos**
+**Ejemplos** \
 ![](../images/sfs5.png)
 
-**Simulaciones de poblaciones estacionarias.**
-![](../images/pobs_estacionarias.png)
+**Simulaciones de poblaciones estacionarias.** \
+![](../images/pobs_estacionarias.png) \
 Las distribuciones simuladas de distribuciones pareadas suelen presentar una estructura irregular, con múltiples picos. Asimismo, los espectros de frecuencia de sitios muestran desviaciones notables con respecto a los valores esperados bajo modelos neutros.
 
-**Simulaciones de poblaciones con expansión poblacional.**
+**Simulaciones de poblaciones con expansión poblacional.** \
 ![](../images/pobs_expansion.png)
 
 En las **genealogías de genes** de **poblaciones en expansión** los eventos de coalescencia ocurren raramente durante el período en que la población fue grande, pero ocurren rápidamente en el período anterior, cuando la población era pequeña. Esto le da a las genealogías génicas una forma similar a un peine. 
@@ -469,8 +469,8 @@ El ajuste del modelo se basa en estadísticos de resumen como la diversidad gen�
 
 **Ejemplo** \
 Las estimaciones obtenidas bajo los modelos de cuello de botella y divergencia son cercanas al valor que se usó para generar el conjunto de datos de ejemplo (𝑁𝑒 = 600). \
-**Estadísticos de resumen**
-![](../images/diyabc4.png)
+**Estadísticos de resumen** \
+![](../images/diyabc4.png) \
 **Parámetros molestos** \
 ![](../images/diyabc6.png)
 
@@ -510,12 +510,12 @@ Comprender la historia demográfica de las poblaciones es un objetivo clave en l
 
 **fastsimcoal2** es uno de los software más empleados, utiliza el espectro de frecuencia del sitio (SFS) para ajustar los parámetros del modelo a los datos observados mediante la realización de simulaciones coalescentes. 
 
-**Modelos**
-![](../images/fastsimcoal.png)
+**Modelos** \
+![](../images/fastsimcoal.png) \
 En [Demographic modeling with fastsimcoal2](https://speciationgenomics.github.io/fastsimcoal2/) puedes encontrar más información sobre el software.
 
-**Otros modelos más complejos**
-![](../images/fastsimcoal4.png)
+**Otros modelos más complejos** \
+![](../images/fastsimcoal4.png) \
 **A) Una población con cuello de botella.**
 Se modela una sola población que ha experimentado un cuello de botella poblacional, es decir, una reducción drástica y temporal en su tamaño efectivo.
 
@@ -562,4 +562,5 @@ En esta prática vamos a reproducir algunos de los análisis  realizados en [(Ly
 - *F*<sub>ST
 - AMOVA
 - Skyline plot
+
 
