@@ -76,8 +76,8 @@ Más información en [Detecting the number of clusters of individuals using the 
 **PCA** \
 El análisis de componentes principales (PCA) es una de las técnicas más útiles para visualizar la diversidad genética en un conjunto de datos. Aunque la metodología no se limita a datos genéticos, en general permite descomponer conjuntos de datos de alta dimensión en dos o más dimensiones para su visualización en un espacio bidimensional [(Stephan Schiffels)](https://comppopgenworkshop2019-readthedocs-io.translate.goog/en/latest/contents/03_pca/pca.html?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc).
 
-**Ejemplo**
-![](../images/PCA_basins.png)
+**Ejemplo** \
+![](../images/PCA_basins.png) \
  [Phylogeography and Genetic Diversity of Duck Mussel *Anodonta anatina* (Bivalvia: Unionidae) in Eurasia](https://www.mdpi.com/1424-2818/15/2/260#app1-diversity-15-00260) (Lyubas et al., 2023).
 
 	         Diferenciación poblacional
@@ -237,7 +237,7 @@ Para más información [Recent advances in Bayesian inference of isolation-with-
 La llegada de los datos genómicos ha revelado el intercambio de material genético entre numerosas especies. \
 El enfoque ABBA BABA fue desarrollado para cuantificar la cantidad de intercambio genético entre los neandertales y los humanos modernos [(Durand *et al*., 2011)](https://academic.oup.com/mbe/article/28/8/2239/1052492). 
 
-***ILS* o Introgresión**
+***ILS* o Introgresión** \
 ![](../images/ILS1.png)
 
 
@@ -252,11 +252,11 @@ Un exceso de cualquiera de estos dos patrones (ABBA o BABA), que resulta en un e
 Cuando no hay un grupo externo para determinar alelos derivados y ancestrales.\
 Si los linajes A y B son hermanos en el árbol de especies, con un tiempo de divergencia t₁, y el ancestro de A y B se separó de la línea C en el tiempo t₂. Nos referimos a los árboles génicos que presentan esta topología como AB, de modo que las dos topologías discordantes son AC y BC.
 
-**Topologías producidas por *ILS***
+**Topologías producidas por *ILS*** \
 ![](../images/abba1.png)
 
 
-**Topologías producidas por introgresión** 
+**Topologías producidas por introgresión** \
 ![](../images/abba2.png)
 
 La fila superior muestra el mismo árbol de especies, pero con introgresión entre (a) las líneas B y C, o (b) las líneas A y C. 
@@ -663,7 +663,7 @@ La diferenciación en la frecuencia alélica entre las tres poblaciones es muy b
 
 **Ejemplo**
 
-![](../images/AMOVA_ejer.png)
+![](../images/AMOVA_ejer.png) \
 **En que nivel se encuentra el mayor componente de variación?** \
 **Qué sugiere el valor de **F<sub>ST</sub>**?**  \
 Este ejemplo está en [Laboratorio 3: Estructura genética](https://biologia.ucr.ac.cr/profesores/Fuchs%20Eric/Laboratorio%204%20-%20Estructura%20AMOVA%20y%20DAPC.html) de (Carvajal Rojas et al., 2019).
@@ -689,4 +689,5 @@ En esta prática vamos a reproducir algunos análisis de variación genética y 
 - Diversidad nucleotídica
 - *F*<sub>ST
 - AMOVA
+
 
