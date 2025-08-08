@@ -1,39 +1,18 @@
-# Filogeografía
-## PCB
-## Semestre 2026-1
-### Dr. Vicente J. Castillo Chora
+Bienvenidxs al curso intensivo de Filogeografía. \
+Posgrado en Ciencias Biológicas \
+UNAM
 
-### Módulo 3:
+**Descripción:** \
+Este curso corresponde al semestre 2026-1, en modalidad online, con una duración de 4 horas/día, durante 4 semanas.
 
-**Modalidad:** Clases online. \
-**Fechas:** 26 al 29 de agosto. \
-**Duración:** 4 sesiones, 4 horas c/u. \
-**Días:** lunes*, miércoles, jueves y viernes. \
-**Horario:** 15:00 - 19:00*. 
+En este repostiorio encontrarás los siguientes folders y archivos:
 
-#### UNIDAD 3
-**Metódos de análisis** \
-3.1. Métodos filogenéticos \
-**3.2. Métodos genético-poblacionales y espaciales** \
-**3.3. Computaciones bayesianas aproximadas y skyline plots** \
-**3.4. Estadística filogeográfica** 
+**filogeografia_presentacion:** Muestra la información más relevante sobre el curso. 
+**data:** Contiene las secuencias de Genebank empleadas para las prácticas, así como la publicación original. \
+**filogeografia_pcb_r:** Contiene los archivos con las presentaciones a revisar durante cada sesión. \
+**images:** Contiene las imágenes mostradas en las presentaciones. \
+**inputs_outpus:** Contiene los archivos generados durante las prácticas, los cuáles pueden servir como inputs para diferentes sorfwares. \
+**practicas:** Contiene los scripts y objetos de R generados durante las prácticas. \
 
-#### UNIDAD 4
-**Ejemplos y estudios de caso** \
-4.1. Estructura filogeográfica \
-**4.2. Inferencias demográficas** \
-4.3. Filogeografía comparada \
-**4.4. Estadística filogeográfica II**
 
-**Evaluación:** \
-Trabajo final: **40 %** \
-Módulo 1:      **15 %** \
-Módulo 2:	   **15 %** \
-Módulo 3:	   **15 %** \
-Módulo 4:	   **15 %** 
-
-**Módulo 2:** \
-Práctica: **5 %** \
-
-Discusión y presentación: **10 %**
 
