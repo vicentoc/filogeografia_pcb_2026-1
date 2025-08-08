@@ -8,7 +8,7 @@
 **Modalidad:** Clases online. \
 **Fechas:** 26 al 29 de agosto. \
 **Duración:** 4 sesiones, 4 horas c/u. \
-**Días:** lunes, miércoles, jueves y viernes. \
+**Días:** lunes*, miércoles, jueves y viernes. \
 **Horario:** 15:00 - 19:00*. 
 
 #### UNIDAD 3
@@ -36,3 +36,4 @@ Módulo 4:	   **15 %**
 Práctica: **5 %** \
 
 Discusión y presentación: **10 %**
+
