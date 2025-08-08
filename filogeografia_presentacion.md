@@ -6,9 +6,9 @@
 ### Módulo 3:
 
 **Modalidad:** Clases online. \
-**Fechas:** 25 al 29 de agosto. \
+**Fechas:** 26 al 29 de agosto. \
 **Duración:** 4 sesiones, 4 horas c/u. \
-**Días:** lunes*, miércoles, jueves y viernes. \
+**Días:** lunes, miércoles, jueves y viernes. \
 **Horario:** 15:00 - 19:00*. 
 
 #### UNIDAD 3
@@ -26,12 +26,13 @@
 **4.4. Estadística filogeográfica II**
 
 **Evaluación:** \
-Trabajo final: **60 %** \
-Módulo 1:      **10 %** \
-Módulo 2:	   **10 %** \
-Módulo 3:	   **10 %** \
-Módulo 4:	   **10 %** 
+Trabajo final: **40 %** \
+Módulo 1:      **15 %** \
+Módulo 2:	   **15 %** \
+Módulo 3:	   **15 %** \
+Módulo 4:	   **15 %** 
 
-**Módulo 3:** \
+**Módulo 2:** \
 Práctica: **5 %** \
-Discusión y presentación: **5%**
+
+Discusión y presentación: **10 %**
