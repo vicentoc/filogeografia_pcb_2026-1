@@ -172,7 +172,7 @@ La información de calibración puede provenir de diversas fuentes:
 **Calibraciones fósiles o biogeográficas.**  \
 Los métodos bayesianos ofrecen una forma de tener en cuenta la incertidumbre en las calibraciones fósiles. Las distribuciones previas que reflejan nuestro conocimiento (o la falta del mismo) sobre el tiempo transcurrido desde el nodo ancestral hasta su fósil de calibración se incorporan fácilmente en estos métodos.
 
-**Distribuciones paramétricas que pueden aplicarse como distribuciones a priori sobre la edad de un nodo calibrado**
+**Distribuciones paramétricas que pueden aplicarse como distribuciones a priori sobre la edad de un nodo calibrado** \
 ![](../images/beast2.png)
 
 Esta parte estuvo patrocinada por Tracy Heath:
@@ -206,8 +206,8 @@ Los desafíos de inferir modelos de aislamiento (sin migración) e incluso de re
 
 La deriva genética aumenta la divergencia entre poblaciones o entre especies, mientras que el flujo génico puede eliminar señales de dicha divergencia. Un modelo de aislamiento con migración (IM) es un modelo demográfico que describe estas dos señales contrapuestas. 
 
-**Ejemplo**
-![](../images/migration_with_flux.png)
+**Ejemplo** \
+![](../images/migration_with_flux.png) \
 Un modelo típico de IM para dos poblaciones, con seis parámetros, representa dos poblaciones (con tamaños poblacionales θ1 y θ2, respectivamente) que se originan a partir de una sola población ancestral (tamaño θa) en el tiempo Ts en el pasado, mientras que ambas poblaciones pueden intercambiar migrantes a tasas m1 y m2. Se asume que tanto los tamaños poblacionales como las tasas de migración se mantienen constantes a lo largo del tiempo.
 
 **Modelo estándar** \
@@ -319,7 +319,7 @@ Diversification and secondary contact in the magpie-jays (*Calocitta*) throughou
 
 Más información en [gilles-guillot/Geneland](https://github.com/gilles-guillot/Geneland) en GitHub.
 
-		**Barreras geográficas y ecológicas**
+		Barreras geográficas y ecológicas
 
 - Barrier
 - Modelos de nicho ecológico
@@ -427,7 +427,7 @@ Haplotipo 1 = 0.05   \
 Haplotipo 2 = 0.95
 
 *kij* is the number of nucleotide differences per site between the ith and jth sequences: \
-haplotype 1 - haplotype 2 = 2/16 = 0.125  \
+haplotype 1 - haplotype 2 = 2/16 = 0.125  
 
 **Calcular π** \
 π = 1000/999(0.95\*0.05\*0.125)  \
@@ -689,5 +689,6 @@ En esta prática vamos a reproducir algunos análisis de variación genética y 
 - Diversidad nucleotídica
 - *F*<sub>ST
 - AMOVA
+
 
 
