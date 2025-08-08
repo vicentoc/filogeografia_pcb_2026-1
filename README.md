@@ -36,12 +36,13 @@ Módulo 4:	   **15 %**
 Práctica: **5 %** \
 Discusión y presentación: **10 %**
 
-** En este repostiorio encontrarás los siguientes folders y archivos: ** \
+**En este repostiorio encontrarás los siguientes folders y archivos:** \
 data: Contiene las secuencias de Genebank empleadas para las prácticas, así como la publicación original.
 filogeografia_pcb_r: Contiene los archivos con las presentaciones a revisar durante cada sesión.
 images: Contiene las imágenes mostradas en las presentaciones.
 inputs_outpus: Contiene los archivos generados durante las prácticas, los cuáles pueden servir como inputs para diferentes sorfwares.
 practicas: Contiene los scripts y objetos de R generados durante las prácticas. 
+
 
 
 
