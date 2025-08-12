@@ -33,8 +33,9 @@ Módulo 3:	   **15 %** \
 Módulo 4:	   **15 %** 
 
 **Módulo 3:** \
-Práctica: **5 %** \
-Discusión y presentación: **10 %**
+Práctica: **10 %** \
+Presentación: **5 %** \
+Participación: **3 %** 
 
 **¿Cómo usar este repositorio?** \
 **data:** Contiene las secuencias de Genebank empleadas para las prácticas, así como la publicación original. \
@@ -42,6 +43,7 @@ Discusión y presentación: **10 %**
 **images:** Contiene las imágenes mostradas en las presentaciones. \
 **inputs_outpus:** Contiene los archivos generados durante las prácticas, los cuáles pueden servir como inputs para diferentes sorfwares. \
 **practicas:** Contiene los scripts y objetos de R generados durante las prácticas. 
+
 
 
 
