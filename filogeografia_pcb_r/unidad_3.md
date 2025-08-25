@@ -54,7 +54,7 @@ Phylogeography and Genetic Diversity of Duck Mussel *Anodonta anatina* (Bivalvia
 
 Conserved DNA sequence analysis reveals the phylogeography and evolutionary events of *Akebia trifoliata* in the region across the eastern edge of the Tibetan Plateau and subtropical China [(Dong *et al*., 2024).](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-024-02243-0)
 
-![](../images/haploty_network_start-shape.png)
+![](../images/haploty_network_start-shape.png) \
 (a) TCS-derived network of genealogical relationships between the 75 ITS (internal transcribed spacer) haplotypes. \
 (b) TCS-derived network of genealogical relationships between the 22 haplotypes (rps16). \
 (c) Sampling distribution map of 61 populations of *Akebia trifoliata*. Red, yellow, green and blue represent the different geographical locations of A (the eastern Tibetan Plateau), B (central northern China), C (central China) and D (eastern China), respectively.
@@ -689,6 +689,7 @@ En esta prática vamos a reproducir algunos análisis de variación genética y 
 - Diversidad nucleotídica
 - *F*<sub>ST
 - AMOVA
+
 
 
 
