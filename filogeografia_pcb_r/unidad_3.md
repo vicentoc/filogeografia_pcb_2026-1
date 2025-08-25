@@ -38,7 +38,7 @@ Los **métodos genético-poblacionales** se centran en analizar la estructura 
 El objetivo de los análisis de estructura poblacional es detectar el número de poblaciones genéticamente diferenciadas y sus límites [(Cunha HA 2022).](https://www.sciencedirect.com/science/article/abs/pii/B9780323909747000185)
 
 **Red de haplotipos** \
-Phylogeography and Genetic Diversity of Duck Mussel *Anodonta anatina* (Bivalvia: Unionidae) in Eurasia [(Lyubas *et al*., 2023)](https://www.mdpi.com/1424-2818/15/2/260#app1-diversity-15-00260).
+Phylogeography and Genetic Diversity of Duck Mussel *Anodonta anatina* (Bivalvia: Unionidae) in Eurasia [(Lyubas *et al*., 2023)](https://www.mdpi.com/1424-2818/15/2/260#app1-diversity-15-00260). \
 ![](../images/red_hap.png)
 
 **Algunas interpretaciones** \
@@ -689,6 +689,7 @@ En esta prática vamos a reproducir algunos análisis de variación genética y 
 - Diversidad nucleotídica
 - *F*<sub>ST
 - AMOVA
+
 
 
 
