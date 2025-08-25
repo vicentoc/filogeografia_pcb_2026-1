@@ -240,7 +240,6 @@ El enfoque ABBA BABA fue desarrollado para cuantificar la cantidad de intercambi
 ***ILS* o Introgresión** \
 ![](../images/ILS1.png)
 
-
 La prueba considera alelos ancestrales (‘A’) y derivados (‘B’) a lo largo del genoma de cuatro taxones. Cuando no hay introgresión, se espera que estos patrones discordantes ocurran con igual frecuencia. 
 
 **ABBA-BABA** \
@@ -253,6 +252,7 @@ Un exceso de cualquiera de estos dos patrones (ABBA o BABA), que resulta en un e
 flow and genomic introgression from
 genome data (WGS, radSeq, etc.)
  ](https://evomics.org/wp-content/uploads/2020/01/ABBA_BABA_intro_20200192.pdf) (Hannes Svardal y Milan Malinsky).
+[ A Three-Sample Test for Introgression](https://academic.oup.com/mbe/article/36/12/2878/5543093) (Hahn and Hibbins 2019).
 
 ##### Práctica 1:
 En esta prática vamos a reproducir algunos de los análisis genético-poblacionales realizados en [(Lyubas et al., 2023)](https://www.mdpi.com/1424-2818/15/2/260#app1-diversity-15-00260).
@@ -663,6 +663,7 @@ En esta prática vamos a reproducir algunos análisis de variación genética y 
 - Diversidad nucleotídica
 - *F*<sub>ST
 - AMOVA
+
 
 
 
