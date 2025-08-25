@@ -251,7 +251,7 @@ Un exceso de cualquiera de estos dos patrones (ABBA o BABA), que resulta en un e
 [Using ABBA-BABA tests to infer gene
 flow and genomic introgression from
 genome data (WGS, radSeq, etc.)
- ](https://evomics.org/wp-content/uploads/2020/01/ABBA_BABA_intro_20200192.pdf) (Hannes Svardal y Milan Malinsky).
+ ](https://evomics.org/wp-content/uploads/2020/01/ABBA_BABA_intro_20200192.pdf) (Hannes Svardal y Milan Malinsky). \
 [ A Three-Sample Test for Introgression](https://academic.oup.com/mbe/article/36/12/2878/5543093) (Hahn and Hibbins 2019).
 
 ##### Práctica 1:
@@ -663,6 +663,7 @@ En esta prática vamos a reproducir algunos análisis de variación genética y 
 - Diversidad nucleotídica
 - *F*<sub>ST
 - AMOVA
+
 
 
 
