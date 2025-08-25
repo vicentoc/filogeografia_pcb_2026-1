@@ -248,32 +248,6 @@ La prueba considera alelos ancestrales (‘A’) y derivados (‘B’) a lo larg
 Un exceso de cualquiera de estos dos patrones (ABBA o BABA), que resulta en un estadístico D significativamente diferente de cero, es indicativo de flujo génico entre dos taxones. Un estadístico D positivo (es decir, un exceso de ABBA) señala introgresión entre P2 y P3, mientras que un estadístico D negativo (es decir, un exceso de BABA) indica introgresión entre P1 y P3. \
 [D-statistics for Dummies: A simple test for introgression](https://avianhybrids-wordpress-com.translate.goog/2019/11/09/d-statistics-for-dummies-a-simple-test-for-introgression/?_x_tr_sl=en&_x_tr_tl=es&_x_tr_hl=es&_x_tr_pto=tc).
 
-**Sin grupo externo** \
-Cuando no hay un grupo externo para determinar alelos derivados y ancestrales.\
-Si los linajes A y B son hermanos en el árbol de especies, con un tiempo de divergencia t₁, y el ancestro de A y B se separó de la línea C en el tiempo t₂. Nos referimos a los árboles génicos que presentan esta topología como AB, de modo que las dos topologías discordantes son AC y BC.
-
-**Topologías producidas por *ILS*** \
-![](../images/abba1.png)
-
-
-**Topologías producidas por introgresión** \
-![](../images/abba2.png)
-
-La fila superior muestra el mismo árbol de especies, pero con introgresión entre (a) las líneas B y C, o (b) las líneas A y C. 
-La introgresión ocurre en el tiempo tm en ambos escenarios. La fila inferior muestra nuevamente las topologías no enraizadas aproximadas que resultan de la introgresión.
-
-**Análisis** \
-Consideremos un árbol con tres especies: A, B y C. \
-A está más estrechamente relacionada con B que con C. \
-En este caso, existen dos arreglos discordantes: AC y BC. 
-
-**Relación entre la distancia genética y la topología para 3 poblaciones** \
-![](../images/abba4.png)
-
-La introgresión entre B y C conduce tanto a más árboles con una topología BC como a una menor distancia genética entre estas dos líneas. Como resultado, dB–C (la distancia genética entre B y C) será menor que dA–C (la distancia genética entre A y C), lo que lleva a un valor negativo de D3. Por el contrario, el flujo génico entre A y C produce valores positivos de D3. 
-
-[ A Three-Sample Test for Introgression](https://academic.oup.com/mbe/article/36/12/2878/5543093) (Hahn and Hibbins 2019).
-
 **Más información** \
 [Using ABBA-BABA tests to infer gene
 flow and genomic introgression from
@@ -689,6 +663,7 @@ En esta prática vamos a reproducir algunos análisis de variación genética y 
 - Diversidad nucleotídica
 - *F*<sub>ST
 - AMOVA
+
 
 
 
