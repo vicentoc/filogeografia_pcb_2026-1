@@ -45,7 +45,7 @@ Se entregan 3 documentos:
 - Discusión sobre la reproducibilidad de los análisis del ms.
 
 Presentación de un análisis: \
-De tu revisión hecha en la tabla 1, selecciona un análisis (que no esté en las presentaciones) y prepara: \
+De tu revisión hecha en la tabla 1, selecciona un análisis (que no esté en las presentaciones) y prepara: 
 - 1 diapósitiva introductoria a tu sistema de estudio. 
 - 1 diapósitiva con tus objetivos y pregunta de estudio. 
 - 1 diapósitiva explicando el análisis y cómo te ayudará a completar tus objetivos y a responder tu pregunta de estudio.  
@@ -57,6 +57,7 @@ De tu revisión hecha en la tabla 1, selecciona un análisis (que no esté en la
 **images:** Contiene las imágenes mostradas en las presentaciones. \
 **inputs_outpus:** Contiene los archivos generados durante las prácticas, los cuáles pueden servir como inputs para diferentes sorfwares. \
 **practicas:** Contiene los scripts y objetos de R generados durante las prácticas. 
+
 
 
 
