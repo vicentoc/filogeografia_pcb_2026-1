@@ -38,6 +38,9 @@ Participación en clase:           **4 %** \
 Práctica clase:                   **7 %** \
 Presentación de un análisis:      **4 %** 
 
+Participación en clase: 
+- 1 % cada sesión.
+  
 Práctica clase: \
 Se entregan 3 documentos:  
 - Archivo donde se discutan las figuras y tablas. 
@@ -57,6 +60,7 @@ De tu revisión hecha en la tabla 1, selecciona un análisis (que no esté en la
 **images:** Contiene las imágenes mostradas en las presentaciones. \
 **inputs_outpus:** Contiene los archivos generados durante las prácticas, los cuáles pueden servir como inputs para diferentes sorfwares. \
 **practicas:** Contiene los scripts y objetos de R generados durante las prácticas. 
+
 
 
 
