@@ -111,7 +111,7 @@ La diversidad haplotípica está controlada por una variedad de procesos, incluy
 *Some populations may show low haplotype diversity due to historical isolation, while others display high diversity because of frequent gene flow* [Molecular Ecology & Evolution](https://openpress.wheatoncollege.edu/molecularecologyv1/chapter/genetic-diversity/). 
 
 Haplotipo \
-![](../images/haplotipos_example.png)
+![](../images/haplotipos_example.png) \
 No de sitios segregantes: 3 \
 Proporción de SS: 1/9 \
 No de haplotipos: 4 
@@ -663,6 +663,7 @@ En esta prática vamos a reproducir algunos análisis de variación genética y 
 - Diversidad nucleotídica
 - *F*<sub>ST
 - AMOVA
+
 
 
 
