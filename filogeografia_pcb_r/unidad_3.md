@@ -461,7 +461,7 @@ Refleja los efectos combinados de la deriva genética, la migración, la mutaci�
 **Fórmula** \
 ![](../images/nuevo_fst.png)
 
-***F*ₛₜ** = Reducción en la heterocigisidad que es debida a la estructura de la población. \
+***F*ₛₜ** = Reducción en la heterocigosis que es debida a la estructura de la población. \
 **Hₜ** = diversidad genética total o heterocigosidad esperada en la población total, estimada a partir de las frecuencias alélicas agrupadas. \
 **Hₛ** = heterocigosidad esperada promedio estimada a partir de cada subpoblación.
 
@@ -663,6 +663,7 @@ En esta prática vamos a reproducir algunos análisis de variación genética y 
 - Diversidad nucleotídica
 - *F*<sub>ST
 - AMOVA
+
 
 
 
