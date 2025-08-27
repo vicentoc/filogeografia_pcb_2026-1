@@ -38,16 +38,16 @@ Participación en clase:           **4 %** \
 Práctica clase:                   **7 %** \
 Presentación de un análisis:      **4 %** 
 
-Participación en clase: 
+**Participación en clase:** 
 - 1 % cada sesión.
   
-Práctica clase: \
+**Práctica clase:** \
 Se entregan 3 documentos:  
 - Archivo donde se discutan las figuras y tablas. 
 - Script comentado. 
 - Discusión sobre la reproducibilidad de los análisis del ms.
 
-Presentación de un análisis: \
+**Presentación de un análisis:** \
 De tu revisión hecha en la tabla 1, selecciona un análisis (que no esté en las presentaciones) y prepara: 
 - 1 diapósitiva introductoria a tu sistema de estudio. 
 - 1 diapósitiva con tus objetivos y pregunta de estudio. 
@@ -60,6 +60,7 @@ De tu revisión hecha en la tabla 1, selecciona un análisis (que no esté en la
 **images:** Contiene las imágenes mostradas en las presentaciones. \
 **inputs_outpus:** Contiene los archivos generados durante las prácticas, los cuáles pueden servir como inputs para diferentes sorfwares. \
 **practicas:** Contiene los scripts y objetos de R generados durante las prácticas. 
+
 
 
 
