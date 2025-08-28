@@ -377,7 +377,7 @@ h = 1: La probabilidad de tomar dos haplotipos al azar y que estos sean diferent
 
 **Ejemplo 1** \
 50 * Haplotipo 1: **ATCATCATCATCATCA** \
-50 * Haplotipo 2: **CTACTACTACTATCAC** 
+50 * Haplotipo 2: **CGACGACGACGATCAC** 
 
 *xi* is the frequency of the ith sequence in the population: \
 Haplotipo 1 = 0.5   \
@@ -663,6 +663,7 @@ En esta prática vamos a reproducir algunos análisis de variación genética y 
 - Diversidad nucleotídica
 - *F*<sub>ST
 - AMOVA
+
 
 
 
