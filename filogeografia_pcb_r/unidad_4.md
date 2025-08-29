@@ -561,6 +561,7 @@ En esta prática vamos a reproducir algunos de los análisis  realizados en [(Ly
 - Diversidad nucleotídica
 - *F*<sub>ST
 - AMOVA
-- Skyline plot
+- Distribuciones mismatch
+
 
 
